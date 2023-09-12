@@ -1,0 +1,9 @@
+NumerosPrimos.csproj
+NumerosPrimos.sln
+NumerosPrimos.suo
+.gitattributes
+Properties/
+bin/
+obj/
+App.config
+.vs/
